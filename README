@@ -1,2 +1,7 @@
-Who's on campus script, written by zed0.
+Who's on campus script, written by Ben Falconer.
+
+This is a page for showing locations of users logged onto a linux machine, the same output can be found from the 'finger' and 'last' commands, this page combines this information with pregathered IP locations to give a reasonable approximation of the user's current location.
+
 Currently this doesn't actually use the database defined in auth.php, so this can remain blank.
+
+See http://zed0.co.uk/whosoncampus/ for what this looks like.
