@@ -1,0 +1,2 @@
+Who's on campus script, written by zed0.
+Currently this doesn't actually use the database defined in auth.php, so this can remain blank.
