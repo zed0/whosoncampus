@@ -83,6 +83,24 @@ array_push($locations, array(
 	'room' => 'CS0.06'
 ));
 
+//MSc Lab - CS102
+array_push($location, array(
+	'category' => 'DCS',
+	'baseIP' => array(137,205,112),
+	'minIP' => '130',
+	'maxIP' => '154',
+	'seatingPlan' => array(
+		array(  21,  22,  23,  24),
+		array(  20,  19,  18,  17),
+		array(  13,  14,  15,  16),
+		array(  12,  11,  10,   9),
+		array(   5,   6,   7,   8),
+		array(   4,   3,   2,   1)
+	),
+	'room' => 'CS1.02'
+));
+
+
 //DCS wireless
 array_push($locations, array(
 	'category' => 'DCS',
