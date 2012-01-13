@@ -84,7 +84,7 @@ array_push($locations, array(
 ));
 
 //MSc Lab - CS102
-array_push($location, array(
+array_push($locations, array(
 	'category' => 'DCS',
 	'baseIP' => array(137,205,112),
 	'minIP' => '130',
