@@ -241,6 +241,14 @@ array_push($locations, array(
 	'maxIP' => '255',
 ));
 
+//Digital Lab
+array_push($locations, array(
+	'title' => 'Digital Lab',
+	'baseIP' => array(137,205,175),
+	'minIP' => '1',
+	'maxIP' => '255',
+));
+
 //Azurit's office
 array_push($locations, array(
 	'title' => 'Azurit\'s Office',
