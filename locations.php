@@ -5,7 +5,7 @@ $locations = array();
 array_push($locations, array(
 	'category' => 'Houses',
 	'title' => 'House of Hair',
-	'dns' => 'rinko.dyndns-ip.com',
+	'dns' => 'yuno.dyndns-ip.com',
 	'latlong' => array(52.40805,-1.542138)
 ));
 
