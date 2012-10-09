@@ -241,6 +241,22 @@ array_push($locations, array(
 	'maxIP' => '255',
 ));
 
+//Tocil
+array_push($locations, array(
+	'title' => 'Tocil',
+	'baseIP' => array(137,205,54),
+	'minIP' => '1',
+	'maxIP' => '255',
+));
+
+//Rootes - International House
+array_push($locations, array(
+	'title' => 'International House',
+	'baseIP' => array(137,205,238),
+	'minIP' => '1',
+	'maxIP' => '255',
+));
+
 //Digital Lab
 array_push($locations, array(
 	'title' => 'Digital Lab',
