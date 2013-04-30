@@ -117,7 +117,7 @@ array_push($locations, array(
 	'baseIP' => array(137,205,148),
 	'minIP' => '71',
 	'maxIP' => '100',
-	'alwaysShow' => true,
+//	'alwaysShow' => true,
 	'seatingPlan' => array(
 		array(27,28,29,30),
 		array(23,24,25,26),
@@ -138,7 +138,7 @@ array_push($locations, array(
 	'baseIP' => array(137,205,148),
 	'minIP' => '0',
 	'maxIP' => '70',
-	'alwaysShow' => true,
+//	'alwaysShow' => true,
 	'seatingPlan' => array(
 		array(28,29,  30,  31,null,67,68,69,70),
 		array(25,26,  27,null,null,63,64,65,66),
@@ -161,7 +161,7 @@ array_push($locations, array(
 	'baseIP' => array(137,205,148),
 	'minIP' => '101',
 	'maxIP' => '116',
-	'alwaysShow' => true,
+//	'alwaysShow' => true,
 	'seatingPlan' => array(
 		array(   5,   6,null,15,16),
 		array(   3,   4,null,13,14),
@@ -254,6 +254,14 @@ array_push($locations, array(
 	'title' => 'International House',
 	'baseIP' => array(137,205,238),
 	'minIP' => '1',
+	'maxIP' => '199',
+));
+
+//Rootes - Olde
+array_push($locations, array(
+	'title' => 'Old Rootes',
+	'baseIP' => array(137,205,238),
+	'minIP' => '200',
 	'maxIP' => '255',
 ));
 
