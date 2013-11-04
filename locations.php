@@ -95,7 +95,7 @@ array_push($locations, array(
 		array(11,12,13,14,15),
 		array(16,17,18,19,20)
 	),
-	'room' => 'Masters lab'
+	'room' => 'CS0.03'
 ));
 
 //PhD Lab - CS102
