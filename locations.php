@@ -83,7 +83,22 @@ array_push($locations, array(
 	'room' => 'CS0.06'
 ));
 
-//MSc Lab - CS102
+//Masters lab (hardware lab)
+array_push($locations, array(
+	'category' => 'DCS',
+	'baseIP' => array(137,205,113),
+	'minIP' => '0',
+	'maxIP' => '20',
+	'seatingPlan' => array(
+		array(1,2,3,4,5),
+		array(6,7,8,9,10),
+		array(11,12,13,14,15),
+		array(16,17,18,19,20)
+	),
+	'room' => 'Masters lab'
+));
+
+//PhD Lab - CS102
 array_push($locations, array(
 	'category' => 'DCS',
 	'baseIP' => array(137,205,112),
