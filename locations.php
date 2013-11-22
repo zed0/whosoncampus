@@ -280,6 +280,14 @@ array_push($locations, array(
 	'maxIP' => '255',
 ));
 
+//Sherbourne
+array_push($locations, array(
+	'title' => 'Sherbourne',
+	'baseIP' => array(172,29),
+	'minIP' => '24',
+	'maxIP' => '49',
+));
+
 //Digital Lab
 array_push($locations, array(
 	'title' => 'Digital Lab',
