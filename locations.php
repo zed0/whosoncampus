@@ -1,11 +1,11 @@
 <?php
 $locations = array();
 
-//House of hair
+//Demo's house
 array_push($locations, array(
 	'category' => 'Houses',
-	'title' => 'House of Hair',
-	'dns' => 'yuno.dyndns-ip.com',
+	'title' => 'Demo\'s house',
+	'dns' => 'yuno.dynu.com',
 	'latlong' => array(52.40805,-1.542138)
 ));
 
@@ -21,7 +21,7 @@ array_push($locations, array(
 array_push($locations, array(
 	'category' => 'Houses',
 	'title' => 'zed0\'s House',
-	'dns' => 'zed0.homeip.net',
+	'dns' => 'dyton.ftp.sh',
 	'latlong' => array(52.3943, -1.5502)
 ));
 
@@ -155,16 +155,16 @@ array_push($locations, array(
 	'maxIP' => '70',
 //	'alwaysShow' => true,
 	'seatingPlan' => array(
-		array(28,29,  30,  31,null,67,68,69,70),
-		array(25,26,  27,null,null,63,64,65,66),
-		array(22,23,  24,null,null,59,60,61,62),
-		array(19,20,  21,null,null,55,56,57,58),
-		array(16,17,  18,null,null,51,52,53,54),
-		array(13,14,  15,null,null,47,48,49,50),
-		array(10,11,  12,null,null,43,44,45,46),
-		array( 7, 8,   9,null,null,39,40,41,42),
-		array( 5, 6,null,null,null,35,36,37,38),
-		array( 3, 4),
+		array(28,29,  30,  31,null,  67,68,69,70),
+		array(25,26,  27,null,null,  63,64,65,66),
+		array(22,23,  24,null,null,  59,60,61,62),
+		array(19,20,  21,null,null,  55,56,57,58),
+		array(16,17,  18,null,null,  51,52,53,54),
+		array(13,14,  15,null,null,  47,48,49,50),
+		array(10,11,  12,null,null,  43,44,45,46),
+		array( 7, 8,   9,null,null,  39,40,41,42),
+		array( 5, 6,null,null,null,  35,36,37,38),
+		array( 3, 4,null,null,null,null,39,40,41),
 		array( 1, 2)
 	),
 	'room' => 'F2.11'
